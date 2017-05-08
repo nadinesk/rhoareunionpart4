@@ -10,17 +10,17 @@ output:github_document
 
 The Real Housewives of Atlanta's Reunion, Part IV was on last night (5/7/17). I had to wait until this morning at 6am, when it was posted online, to watch it. But last night, as it was going on, I checked out the #rhoareunion hashtag on Twitter to see what was happening. It seemed like the consensus was that Kandi had been wronged and that most people could agree that Phaedra was a liar. Rarely has there been such a consensus on one side about any fight on the RH, that I've seen. 
 
-I took to the R Twitter pacakge, not to answer the question of whether that consensus was actually true (but if I could, I would) but to see what the general sentiment about the #rhoareunion was. It seems that the majority of people reflected the tense, stressful, sad, and angry mood of the reunion. After all, it was a crazy episode, heavy on deception, and lots and lots of under-the-bus-throwing. 
+I took to the R Twitter package, not to answer the question of whether that consensus was actually true (but if I could, I would) but to see what the general sentiment about the #rhoareunion was. It seems that the majority of people reflected the tense, stressful, sad, and angry mood of the reunion. After all, it was a crazy episode, heavy on deception, and lots and lots of under-the-bus-throwing. 
 
-* 20% of the words used in tweets were positive
-* 13% of the words used in tweets were negative
+* 20% of the words used in tweets were negative
+* 13% of the words used in tweets were positive
 * 12% of the words used in tweets were angry
 * 11% of the words used in tweets were fearful
 * 11% of the words used in tweets were categorized as sad
 
 More positive sentiments of joy, anticipation, trust, and surprise, were used the least. 
 
-I used a comparison of the #rhobhreunion tweets, even though that aired last week, and I wasn't able to pull that many tweets from it this morning. Its the other franchise I watch, so I was semi-interested, even though compared to Atlanta, BH is not much to see. Here is just the sentiments for the most recent 5,000 tweets for #rhoareunion. The comparison with #rhobhreunion is further down in this post. 
+I used a comparison of the #rhobhreunion tweets, even though that aired last week, and I wasn't able to pull that many tweets from it this morning. Its the other franchise I watch, so I was semi-interested, even though compared to Atlanta, BH is not much to see. Here are just the sentiments for the most recent 5,000 tweets for #rhoareunion. The comparison with #rhobhreunion is further down in this post. 
 
 ![rhoatweets](http://khasachi.com/images/rhoa1.png)
 
@@ -74,7 +74,7 @@ I used a comparison of the #rhobhreunion tweets, even though that aired last wee
   <tr>
     <th>joy</th>
     <th>407</th>
-    <th>3%</th>
+    <th>5%</th>
   </tr>
   <tr>
     <th>surprise</th>
@@ -436,8 +436,8 @@ The following combines the bar charts and tables for the #rhoareunion and #rhobh
   <tr>
     <th>joy</th>
     <th>407</th>
-    <th>3%</th>
-      <th>30</th>
+    <th>5%</th>
+    <th>30</th>
     <th>6%</th>
   </tr>
   <tr>
