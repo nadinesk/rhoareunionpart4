@@ -1,17 +1,32 @@
 ---
 title: "RHOA Reunion"
 author: "Nadine"
-date: "May 8, 2017"
-output:
-  pdf_document: default
-  html_document: default
+date: "May 7, 2017"
+output:github_document
+
 ---
 
-#Overview
+# Overview
 
-The Real Housewives of Atlanta's Reunion, Part IV was on last night (5/7/17), and in all of my years of watching the R
+The Real Housewives of Atlanta's Reunion, Part IV was on last night (5/7/17). I had to wait until this morning at 6am, when it was posted online, to watch it. But last night, as it was going on, I checked out the #rhoareunion hashtag on Twitter to see what was happening. It seemed like the consensus was that Kandi had been wronged and that most people could agree that Phaedra was a liar. Rarely has there been such a consensus on one side about any fight on the RH, that I've seen. 
 
-#Packages
+I took to the R Twitter pacakge, not to answer the question of whether that consensus was actually true (but if I could, I would) but to see what the general sentiment about the #rhoareunion was. It seems that the majority of people reflected the tense, stressful, sad, and angry mood of the reunion. After all, it was a crazy episode, heavy on deception, and lots and lots of under-the-bus-throwing. 
+
+* 20% of the words used in tweets were positive
+* 13% of the words used in tweets were negative
+* 12% of the words used in tweets were angry
+* 11% of the words used in tweets were fearful
+* 11% of the words used in tweets were categorized as sad
+
+More positive sentiments of joy, anticipation, trust, and surprise, were used the least. 
+
+I used a comparison of the #rhobhreunion tweets, even though that aired last week, and I wasn't able to pull that many tweets from it this morning. Its the other franchise I watch, so I was semi-interested, even though compared to Atlanta, BH is not much to see. Here is just the sentiments for the most recent 5,000 tweets for #rhoareunion. The comparison with #rhobhreunion is further down in this post. 
+
+![rhoatweets](http://khasachi.com/images/rhoa1.png)
+![rhoatweets](http://khasachi.com/images/rhoa_table1.PNG)
+
+# R CODE
+## Packages
 
 *  library(dplyr)
 *  library(purrr)
@@ -25,32 +40,11 @@ The Real Housewives of Atlanta's Reunion, Part IV was on last night (5/7/17), an
 *  library(reshape2)
 *  library(scales)
 
-```{r setup, include=FALSE}
-library(dplyr)
-library(purrr)
-library(twitteR)
-library(tidyr)
-library(lubridate)
-library(scales)
-library(ggplot2)
-library(stringr)
-library(tidytext)
-library(reshape2)
-library(scales)
-library(knitr)
-library(rmarkdown)
-
-```
-
 ## Setup
 
 Authenicate app. 
 
-```{r include=FALSE}
-setup_twitter_oauth("YzDrMmjsdPajxmuMXGrfZz2zB", "fDK3UJOuUnp1OF8Dd91RSsFcKeB1tQ53W9FKoqxu7mKcY0efQh", "499964206-UwcPxJM1hr2iQ0aTAgUev8hdOptejKkNkBmrn2Nu", "785vZOkgTGramES0HsjJ7TBFibUhjs274KL5XxdlPjnfC")
-```
-
-## Get #rhoareunion tweets
+## Get rhoareunion tweets
 
 Get the 5,000 most recent tweets with the #rhoareunion hashtag. 
 
@@ -201,6 +195,10 @@ kable(bh_trend_words_sentiment)
 
 ```
 
+![rhoatweets](http://khasachi.com/images/rhoa2.png)
+![rhoatweets](http://khasachi.com/images/rhoa_table2.PNG)
+
+
 ### Combine the Bar Charts
 
 The following combines the bar charts and tables for the #rhoareunion and #rhobhreunion sentiment analyses, to provide a side-by-side comparision. 
@@ -259,3 +257,7 @@ mt$rhobh_perc <- paste(mt$rhobh_perc, "%", sep="")
 
 kable(mt)
 ```
+
+![rhoatweets](http://khasachi.com/images/rhoa3.png)
+![rhoatweets](http://khasachi.com/images/rhoa_table3.PNG)
+
