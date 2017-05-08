@@ -244,8 +244,6 @@ For sake of comparison, I also included the most recent tweets (as of 5/8/17 mor
     kable(bh_trend_words_sentiment)
 
 
-
-
 ![rhoatweets](http://khasachi.com/images/rhoa2.png)
 
 <table>
@@ -307,6 +305,7 @@ For sake of comparison, I also included the most recent tweets (as of 5/8/17 mor
   </tr>
   
   </table>
+
 
 
 ### Combine the Bar Charts
