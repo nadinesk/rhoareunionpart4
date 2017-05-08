@@ -271,7 +271,7 @@ For sake of comparison, I also included the most recent tweets (as of 5/8/17 mor
   <tr>
     <th>anger</th>
     <th>59</th>
-    <th>11%<th>
+    <th>11%</th>
   </tr>
   <tr>
     <th>sadness</th>
@@ -396,7 +396,7 @@ The following combines the bar charts and tables for the #rhoareunion and #rhobh
     <th>1,069</th>
     <th>12%</th>
     <th>59</th>
-    <th>11%<th>
+    <th>11%</th>
   </tr>
   <tr>
     <th>sadness</th>
