@@ -80,7 +80,7 @@ I used a comparison of the #rhobhreunion tweets, even though that aired last wee
   <tr>
     <th>surprise</th>
     <th>284</th>
-    <th>3%/th>
+    <th>3%</th>
   </tr>
   
   </table>
@@ -305,7 +305,7 @@ For sake of comparison, I also included the most recent tweets (as of 5/8/17 mor
     <tr>
     <th>surprise</th>
     <th>14</th>
-    <th>3%/th>
+    <th>3%</th>
   </tr>
   
   </table>
@@ -448,7 +448,7 @@ The following combines the bar charts and tables for the #rhoareunion and #rhobh
     <th>284</th>
     <th>3%/th>
      <th>14</th>
-    <th>3%/th>
+    <th>3%</th>
   </tr>
   
   </table>
