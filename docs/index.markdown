@@ -45,37 +45,37 @@ I used a comparison of the #rhobhreunion tweets, even though that aired last wee
   <tr>
     <th>anger</th>
     <th>1,069</th>
-    <th>12%/th>
+    <th>12%</th>
   </tr>
   <tr>
     <th>sadness</th>
     <th>1,006</th>
-    <th>12%/th>
+    <th>12%</th>
   </tr>
   <tr>
     <th>fear</th>
     <th>997</th>
-    <th>11%/th>
+    <th>11%</th>
   </tr>
   <tr>
     <th>trust</th>
     <th>853</th>
-    <th>9%/th>
+    <th>9%</th>
   </tr>
   <tr>
     <th>disgust</th>
     <th>795</th>
-    <th>9%/th>
+    <th>9%</th>
   </tr>
   <tr>
     <th>anticipation</th>
     <th>630</th>
-    <th>7%/th>
+    <th>7%</th>
   </tr>
   <tr>
     <th>joy</th>
     <th>407</th>
-    <th>3%/th>
+    <th>3%</th>
   </tr>
   <tr>
     <th>surprise</th>
@@ -270,7 +270,7 @@ For sake of comparison, I also included the most recent tweets (as of 5/8/17 mor
   <tr>
     <th>disgust</th>
     <th>63</th>
-    <th>12%/th>
+    <th>12%</th>
   </tr>
   <tr>
     <th>anger</th>
@@ -280,27 +280,27 @@ For sake of comparison, I also included the most recent tweets (as of 5/8/17 mor
   <tr>
     <th>sadness</th>
     <th>52</th>
-    <th>10%/th>
+    <th>10%</th>
   </tr>
   <tr>
     <th>fear</th>
     <th>50</th>
-    <th>9%/th>
+    <th>9%</th>
   </tr>
   <tr>
     <th>trust</th>
     <th>42</th>
-    <th>8%/th>
+    <th>8%</th>
   </tr>
   <tr>
     <th>anticipation</th>
     <th>41</th>
-    <th>8%/th>
+    <th>8%</th>
   </tr>
   <tr>
     <th>joy</th>
     <th>30</th>
-    <th>6%/th>
+    <th>6%</th>
   </tr>
     <tr>
     <th>surprise</th>
@@ -397,56 +397,56 @@ The following combines the bar charts and tables for the #rhoareunion and #rhobh
   <tr>
     <th>anger</th>
     <th>1,069</th>
-    <th>12%/th>
+    <th>12%</th>
     <th>59</th>
     <th>11%<th>
   </tr>
   <tr>
     <th>sadness</th>
     <th>1,006</th>
-    <th>12%/th>
+    <th>12%</th>
     <th>52</th>
-    <th>10%/th>
+    <th>10%</th>
   </tr>
   <tr>
     <th>fear</th>
     <th>997</th>
-    <th>11%/th>
+    <th>11%</th>
     <th>50</th>
-    <th>9%/th>
+    <th>9%</th>
   </tr>
   <tr>
     <th>trust</th>
     <th>853</th>
-    <th>9%/th>
+    <th>9%</th>
      <th>42</th>
-    <th>8%/th>
+    <th>8%</th>
   </tr>
   <tr>
     <th>disgust</th>
     <th>795</th>
-    <th>9%/th>
+    <th>9%</th>
         <th>63</th>
-    <th>12%/th>
+    <th>12%</th>
   </tr>
   <tr>
     <th>anticipation</th>
     <th>630</th>
-    <th>7%/th>
+    <th>7%</th>
     <th>41</th>
-    <th>8%/th>
+    <th>8%</th>
   </tr>
   <tr>
     <th>joy</th>
     <th>407</th>
-    <th>3%/th>
+    <th>3%</th>
       <th>30</th>
-    <th>6%/th>
+    <th>6%</th>
   </tr>
   <tr>
     <th>surprise</th>
     <th>284</th>
-    <th>3%/th>
+    <th>3%</th>
      <th>14</th>
     <th>3%</th>
   </tr>
