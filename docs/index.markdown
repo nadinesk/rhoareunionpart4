@@ -23,7 +23,6 @@ More positive sentiments of joy, anticipation, trust, and surprise, were used th
 I used a comparison of the #rhobhreunion tweets, even though that aired last week, and I wasn't able to pull that many tweets from it this morning. Its the other franchise I watch, so I was semi-interested, even though compared to Atlanta, BH is not much to see. Here is just the sentiments for the most recent 5,000 tweets for #rhoareunion. The comparison with #rhobhreunion is further down in this post. 
 
 ![rhoatweets](http://khasachi.com/images/rhoa1.png)
-![rhoatweets](http://khasachi.com/images/rhoa_table1.PNG)
 
 <table>
   
@@ -248,7 +247,6 @@ For sake of comparison, I also included the most recent tweets (as of 5/8/17 mor
 
 
 ![rhoatweets](http://khasachi.com/images/rhoa2.png)
-![rhoatweets](http://khasachi.com/images/rhoa_table2.PNG)
 
 <table>
   
@@ -369,7 +367,7 @@ The following combines the bar charts and tables for the #rhoareunion and #rhobh
 
 
 ![rhoatweets](http://khasachi.com/images/rhoa3.png)
-![rhoatweets](http://khasachi.com/images/rhoa_table3.PNG)
+
 
 <table>
   
